@@ -44,9 +44,9 @@ You should see the directory of ZSH, not bash.
 Copy:
 
 ``` bash
-https://raw.githubusercontent.com/dexpota/kitty-themes/refs/heads/master/themes/Seafoam_Pastel.conf
+https://raw.githubusercontent.com/XoanOuteiro/KittyConfig/refs/heads/main/kitty.conf
 ```
-(Thanks to dexpota)
+(A slightly modified version of Catpuccin Mocha Theme)
 
 And paste into
 ``` bash
