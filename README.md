@@ -52,3 +52,13 @@ And paste into
 ``` bash
 nano ~/.config/kitty/kitty.conf
 ```
+
+### Installing Powerlevel10K
+You WILL need to have ZSH as your shell for this.
+
+``` bash
+git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/powerlevel10k
+echo 'source ~/powerlevel10k/powerlevel10k.zsh-theme' >>~/.zshrc
+```
+
+Then re-launch your terminal, you will be prompted with P10Ks install menu, set it up to your own taste but when asked make sure you turn the instant prompt OFF.
